@@ -49,6 +49,6 @@ void loop() {
   digitalWrite(13, LOW);  // Turn LED OFF
   delay(1000);            // Wait 1 second
   digitalWrite(13, LOW);  // Turn LED OFF
-  delay(1000);            // Wait 1 second
+  delay(200);            // Wait 1 second
 }
 ```
